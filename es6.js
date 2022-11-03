@@ -1,3 +1,10 @@
+//let
+//const
+//template string 
+//class (method)
+//promise
+//async-await
+//then
 
 
 // template string
